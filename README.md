@@ -34,7 +34,7 @@ Project Structure
 - `truth_table.py` — truth table validation, CSV loading, and console input
 - `kmap.py` — K-map layout, grouping, simplification, and validation logic
 - `truth_table_helper.py` — terminal output for the truth table, K-map, and results
-- `ProcessDesign - Task2.pdf` — assignment specification
+
 
 
 
